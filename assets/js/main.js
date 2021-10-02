@@ -1,5 +1,5 @@
 /**
- * Template Name: Whrealestatemarkting - v4.5.0
+ * Template Name: WHRealEstateMarkting - v4.5.0
  
  * Author: K2ptech.com
  * License: https://k2ptech.com/license/
