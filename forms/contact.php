@@ -6,8 +6,8 @@
   * For more info and help: https://k2ptech.com/php-email-form/
   */
 
-  // Replace +92 3344644424 with your real receiving email address
-  $receiving_email_address = '+92 3344644424';
+  // Replace +92 3244748907 with your real receiving email address
+  $receiving_email_address = '+92 3244748907';
 
   if( file_exists($php_email_form = '../assets/vendor/php-email-form/php-email-form.php' )) {
     include( $php_email_form );
